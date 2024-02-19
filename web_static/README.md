@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
@@ -34,3 +35,6 @@ You are not allowed to use Javascript
 Current screenshots have been done on Chrome 56 or more.
 No cross browsers
 You have to follow all requirements but some margin/padding are missing - you should try to fit as much as you can to screenshots
+=======
+HTML/CSS
+>>>>>>> 020ba311966a3bef90c69d8e4cba5374ab37bb55
